@@ -30,6 +30,11 @@ h2 code {
     margin: auto;
 }
 
+.project-title {
+    font-weight: bold;
+    color:  rgb(49, 21, 189);
+}
+
 .toc {
     margin-top: 1.5%;
     margin-bottom: 1.5%;
