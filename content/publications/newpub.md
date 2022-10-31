@@ -1,17 +1,17 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "SecBench.js: An Executable Security Benchmark Suite for Server-Side JavaScript (Under Review)"
 authors:
-- Your Full Name
-- Another Researcher
-date: "2018-09-01"
+- Masudul Hasan Masud Bhuiyan
+- Cristian-Alexandru Staicu
+date: "2022-10-01"
 
-publication: "Journal of Machine Learning"
+publication: "International Conference on Software Engineering 2023"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    pdf: #
+    # code: https://github.com/hadisinaee/avicenna
+    # slides: https://github.com/hadisinaee/avicenna
+    # video: https://github.com/hadisinaee/avicenna
 
 ---
 

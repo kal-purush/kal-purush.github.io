@@ -1,17 +1,17 @@
 ---
-title: "Your Paper Name Goes Here"
+title: "Be SMART, Save I/O: A Probabilistic Approach to Avoid Uncorrectable Errors in Storage
+Systems"
 authors:
-- Your Full Name
-- Another Researcher
-date: "2018-09-01"
+- Masud Bhuiyan
+- Md Arifuzzaman, and Engin Arslan
+date: "2022-09-01"
 
-publication: "Journal of Machine Learning"
+publication: "IEEE Cluster 2022"
 
 links:
-    pdf: https://github.com/hadisinaee/avicenna
-    code: https://github.com/hadisinaee/avicenna
-    slides: https://github.com/hadisinaee/avicenna
-    video: https://github.com/hadisinaee/avicenna
+    pdf: https://www.computer.org/csdl/proceedings-article/cluster/2022/985600a256/1HzBoG9E2L6
+    code: https://github.com/masudulhasan/Probabilistic-Integrity-Verification
+    slides: https://docs.google.com/presentation/d/1IPz1mfirElsv6y5mWGEHsciMLEL2jMTj/edit?usp=sharing&ouid=110993656015853846439&rtpof=true&sd=true
 
 ---
 

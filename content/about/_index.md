@@ -4,63 +4,51 @@ date: 2020-10-20T17:51:47+03:30
 draft: false
 headless: true
 
-full_name: "YOUR_NAME"
+full_name: "Masudul Hasan Masud Bhuiyan"
 profile_picture: "profile.png"
 cv: "cv.pdf"
 # set to false if you don't want to show your blog
-blog: true
+blog: false
 
 socials:
-    twitter: "YOUR_NAME"
-    github: "YOUR_NAME"
-    facebook: "YOUR_NAME"
-    linkedin: "YOUR_NAME"
-    twitch: "YOUR_NAME"
-    google_scholar: "YOUR_NAME"
+    twitter: "MHasan690"
+    github: "kal-purush"
+    linkedin: "masudulhasanmasud"
+    google_scholar: "citations?user=lt8rVH0AAAAJ&hl=en"
 
 interests:
-    - Data Intensive Systems
-    - Distributed Systems
-    - Data Streaming Platforms
-    - Large-Scale Data Processing Platforms
+    - Program Analysis
+    - Software Engineering
+    - Programming Languages
+    - Machine Learning
 
 affiliations:
     - affiliation:
         title: "Ph.D."
-        name: "Stanford University"
-        email: "email@cs.stanford.edu"
-    - affiliation:
-        title: "CEO & Co-Founder"
-        name: "The Coolest Startup In the World"
-        email: "email@mycoolstartup.ai"
+        name: "CISPA Helmholtz Center for Information Security"
+        email: "masudul dot bhuiyan at cispa dot de"
 
 academia:
     - course:
         degree: "Ph.D."
-        institution:  "Stanford University"
-        major: "Data Systems"
+        institution:  "CISPA Helmholtz Center for Information Security"
+        major: "Computer Science"
         start_date: "2021"
     - course:
         degree: "M.Sc."
-        institution: 'Sharif University of Technology'
-        major: 'Software Engineering'
-        start_date: '2013'
-        end_date: '2016'
-        other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
+        institution: 'University of Nevada, Reno'
+        major: 'Computer Science and Engineering'
+        start_date: '2019'
+        end_date: '2020'
+        other_info: 'Result: 4.0/4.0'
     - course:
         degree: "B.Sc."
-        institution: 'University of Kashan'
-        major: 'Software Engineering'
-        minor: 'Statistics'
-        start_date: '2009'
-        end_date: '2013'
-        other_info: 'graduated with first class honor, supervised by Prof.  Cool!'
+        institution: 'Bangladesh University of Engineering & Technology'
+        major: 'Computer Science and Engineering'
+        start_date: '2012'
+        end_date: '2017'
 ---
 
-**Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.
+Welcome to my homepage. I am a Ph.D. candidate at CISPA Helmholtz Center for Information Security, advised by [Cristian-Alexandru Staicu](https://www.staicu.org/). I obtained my Master's degree from the University of Nevada, Reno, USA, under the supervision of Engin Arslan. Prior to that, I received my Bachelor's degree in Computer Science and Engineering from the Bangladesh University of Engineering & Technology. You can check my complete CV [here](https://drive.google.com/file/d/1Jw36eLxtKaiRAagn88RrtfXHpwU0vhS7/view?usp=sharing). 
 
-
-Donec sollicitudin, ante pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, 
-
-
-[1]: ahadsfsa.com
+My core research interest is in program security at the intersection of software/web security, software engineering, and programming languages. One of my research goals is to secure the open-source ecosystem by building program analysis tools to enhance programmer productivity and uncover new security vulnerabilities. My current research focuses on developing machine learning models to improve Static Call Graph techniques for Server-side JavaScript applications.

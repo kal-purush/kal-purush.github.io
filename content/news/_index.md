@@ -5,36 +5,56 @@ draft: false
 headless: true
 
 # all icons by [feathericons.com](https://https://feathericons.com//) are supported
-show_news_icons: true
+show_news_icons: false
 default_news_icon: "file-text"
 
 num_news: 5
 
 news_items:
-- text: "I joined [The Coolest Startup in the World](https://goodluck.com) as the CEO"
-  extra_text: "August 2023."
-  date: 2023-11-20
-- text: "How to deploy in the era of cloud services?"
-  link: https://https://feathericons.com//
-  extra_text: "Software Engineering Daily Podcast, Feb. 2021."
-  date: 2022-11-20
-- text: "Past, present and future of decentralized computing"
-  link: https://https://feathericons.com//
-  extra_text: "The New York Times, Feb. 2020."
-  date: 2021-11-20
-- text: "How to give a communicative research talk?"
-  link: "/en/talks/how-to-give-a-communicative-research-talk/"
-  extra_text: "Software Engineering Daily Podcast, Jan. 2020."
-  icon: "youtube"
-  date: 2020-11-20
-- text: "The new era of software engineering"
-  link: https://https://feathericons.com//
-  extra_text: "Software Engineering Daily Podcast, Jan. 2020."
-  icon: "youtube"
-  date: 2020-11-20
-- text: "How to write a good paper?"
-  link: https://https://feathericons.com//
-  extra_text: "HotOS'19."
-  icon: "youtube"
-  date: 2020-11-20
+- text: "- Attened [**IMC'22**]() at Nice, France!"
+  extra_text: "October 2022"
+  date: 2022-10-25
+
+- text: "- Awarded travel grant to attend [**IMC'22**](), thanks IMC!"
+  extra_text: "September 2022"
+  date: 2022-09-19
+
+- text: "- Presented our work at **IEEE Cluster'22**"
+  extra_text: "September 2022"
+  date: 2022-09-01
+
+- text: "- Probabilistic silent error mitigation model is accepted to IEEE Cluster'22"
+  extra_text: "July 2022"
+  date: 2022-07-01
+
+- text: "- Started as a PhD student at CISPA Helmholtz Center for Information Security "
+  extra_text: "February 2021"
+  date: 2021-02-01
+
+- text: "- Moved to Saarbrücken, Germany"
+  extra_text: "January 2021"
+  date: 2021-01-01
+
+- text: "- Graduated fromUniversity of Nevada, Reno"
+  extra_text: "December 2020"  
+  date: 2020-12-26
+
+- text: "- Joined University of Nevada, Reno as Graduate Research Assistant in [High Performance Computing and Networking (HPCN) Lab](https://www.cse.unr.edu/~earslan/?page=members)"
+  extra_text: "September 2018"
+  date: 2019-01-01
+
+- text: "- I joined [Ridmik Limited](https://ridmik.com/) as Software Engineer"
+  extra_text: "September 2018"
+  date: 2018-09-01
+  
+- text: "- Promoted to Software Engineer at [Reve Systems](https://www.revesoft.com/)"
+  extra_text: "August 2017"
+  date: 2017-09-01
+
+- text: "- I joined [Reve Systems](https://www.revesoft.com/) as Junior Software Engineer"
+  extra_text: "March 2017"
+  date: 2017-03-01
+- text: "- Graduated from Bangladesh University of Engineering & Technology"
+  date: 2017-02-26
+  extra_text: "February 2017"
 ---
