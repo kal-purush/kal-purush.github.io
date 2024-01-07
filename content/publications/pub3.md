@@ -1,14 +1,10 @@
 ---
-title: "SecBench.js: An Executable Security Benchmark Suite for Server-Side JavaScript"
+title: "The Call Graph Chronicles: Unleashing the Power Within"
 authors:
 - Masudul Hasan Masud Bhuiyan
-- Adithya Srinivas Parthasarathy 
-- Nikos Vasilakis 
-- Michael Pradel 
-- Cristian-Alexandru Staicu
-date: "2023-10-01"
+date: "2023-12-01"
 
-publication: "International Conference on Software Engineering 2023"
+publication: "ESEC/FSE 2023"
 
 links:
     pdf: https://nikos.vasilak.is/p/secbench:icse:2023.pdf
@@ -17,6 +13,3 @@ links:
     # video: https://github.com/hadisinaee/avicenna
 
 ---
-
-
-[See the wiki page for tutorial!](https://github.com/hadisinaee/avicenna/wiki)
