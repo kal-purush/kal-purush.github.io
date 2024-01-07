@@ -10,6 +10,12 @@ default_news_icon: "file-text"
 num_news: 11
 
 news_items:
+- text: "Travel grant to attend ESEC/FSE23"
+  extra_text: "2023"
+  date: 2023-12-03
+- text: "Selected for ESEC/FSE Student Research Competition 2023"
+  extra_text: "2023"
+  date: 2023-12-03
 - text: "Travel grant to attend IMC22"
   extra_text: "2022"
   date: 2022-10-20
