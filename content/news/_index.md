@@ -12,6 +12,22 @@ num_news: 5
 
 news_items:
 
+- text: "- Presented our [Poster](https://drive.google.com/file/d/192CfJe6BOJLLmYP1WlpnEfTqajzhCwHs/view?usp=sharing) at **FSE'23**"
+  extra_text: "December 2023"
+  date: 2023-12-03
+
+- text: "- Presented our work at **FSE'23**"
+  extra_text: "December 2023"
+  date: 2023-12-03
+
+- text: "- Paper got accepted at **FSE'23** Student Research Competition "
+  extra_text: "August 2023"
+  date: 2023-08-03
+
+- text: "- Attended [Cyber in Sophia Antipolis](https://s3.eurecom.fr/~aurel/summer-school-2023/) Summer School in Nice, France."
+  extra_text: "July 2023"
+  date: 2023-07-03
+
 - text: "- Presented our [Poster](https://nevadaunr-my.sharepoint.com/:p:/g/personal/masud_hasan_nevada_unr_edu/EXJ-90gBWbVNvzMV4f8AXToBIhoN06lpejYOgzJTjOasgA?e=dGfpXf) at **ICSE'23**"
   extra_text: "May 2023"
   date: 2023-05-12
