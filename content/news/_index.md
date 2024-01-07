@@ -12,6 +12,10 @@ num_news: 5
 
 news_items:
 
+text: "- Presented our poster at **ICSE'23**"
+  extra_text: "May 2023"
+  date: 2023-05-12
+
 - text: "- Presented our work at **ICSE'23**"
   extra_text: "May 2023"
   date: 2023-05-12
