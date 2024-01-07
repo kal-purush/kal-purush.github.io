@@ -12,7 +12,7 @@ num_news: 5
 
 news_items:
 
-text: "- Presented our poster at **ICSE'23**"
+- text: "- Presented our [Poster](https://nevadaunr-my.sharepoint.com/:p:/g/personal/masud_hasan_nevada_unr_edu/EXJ-90gBWbVNvzMV4f8AXToBIhoN06lpejYOgzJTjOasgA?e=dGfpXf) at **ICSE'23**"
   extra_text: "May 2023"
   date: 2023-05-12
 
